@@ -1,6 +1,5 @@
 # bookstore
-
-# xx
+学习go-zero框架的示例代码
 
 # test
 ## 验证 flush 功能
